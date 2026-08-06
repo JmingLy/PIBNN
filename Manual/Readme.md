@@ -212,10 +212,10 @@ in Neal's FBM distribution or the
 Two mass-yield examples for thermal-neutron-induced fission of U-235 are
 also available
 
-| Source | File | Mass range | Rows | Sum of mass yields |
+| Source | File | Mass range | Rows | 
 |---|---|---:|---:|---:|
-| JENDL | [`jendl_u235_thermal_mass_yield.csv`](open_source_release/examples/data/jendl_u235_thermal_mass_yield.csv) | 66-172 | 107 | 200.000000751% |
-| GEF | [`gef_u235_thermal_mass_yield.csv`](open_source_release/examples/data/gef_u235_thermal_mass_yield.csv) | 64-169 | 106 | 199.999570302% |
+| JENDL | [`jendl_u235_thermal_mass_yield.csv`] | 66-172 | 107 |
+| GEF | [`gef_u235_thermal_mass_yield.csv`] | 64-169 | 106 |
 
 
 These data can be employed to test the whether the workflow works in your computer
