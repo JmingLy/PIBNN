@@ -1,4 +1,13 @@
-# Data for PIBNN
-All the data we had usd for our figures in the main text of
-"Physics Informed Bayesian Machine Learning of Sparse and
-Imperfect Nuclear Data" is stored in this Repo.
+# PIBNN Manual and Data 
+This directory contains the public materials for the two-stage independent
+fission-yield workflow implemented with Radford M. Neal's Flexible Bayesian
+Modelling (FBM) software.
+
+The complete English guide is available. It contains:
+
+- environment setup;
+- FBM download and compilation;
+- the stage-one and stage-two training commands;and
+- JENDL-derived and GEF-derived example mass-yield data.
+
+The data we used in the paper is also included.
