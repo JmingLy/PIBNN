@@ -11,3 +11,5 @@ The complete English guide is available. It contains:
 - JENDL-derived and GEF-derived example mass-yield data.
 
 The data we used in the paper is also included.
+
+Contact me at ljm180504@stu.pku.edu.cn if you have any questions
