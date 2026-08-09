@@ -12,6 +12,4 @@ The complete English guide is available. It contains:
 
 The data used in the paper is also included.
 
-Further more, an extra explaination of the method is listed here.
-
 Contact me at ljm180504@stu.pku.edu.cn if you have any questions
